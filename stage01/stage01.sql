@@ -1,0 +1,1 @@
+SELECT identifier FROM pokemon where (id=1) OR (id=4) OR (id=7);
